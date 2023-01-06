@@ -13,8 +13,15 @@ namespace WebAPI.Filter
 {
     public class Login : Attribute, IAuthorizationFilter
     {
+        bool isDev = true;
         public void OnAuthorization(AuthorizationFilterContext context)
         {
+            if (isDev)
+            {
+                context.HttpContext.Items["UID"] = 1;
+            }
+
+
             /* <summary>
                 * custom your authorization program here
                 * </summary> */

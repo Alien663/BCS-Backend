@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+IfordETbWrVw/jpSLHLBO94Z6mny4FfEDxfXgUgOZN6mSnMOvofY/wZWi2CeHpAmJZS0k//jfZ2oeB4hfEK0A==",
+  "dgSpecHash": "IThrNe95ru9P7gdV9r89As0fQb684XTxWbBd+yHuluu66+eqIBKfylKKOwjF4HY+0b1l2lt+clDLFDMrGNme0g==",
   "success": true,
-  "projectFilePath": "D:\\SideProject\\dotnet core 6 webapi template\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "D:\\SideProject\\BCS\\Backend\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\11107063\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\11107063\\.nuget\\packages\\enums.net\\4.0.0\\enums.net.4.0.0.nupkg.sha512",
